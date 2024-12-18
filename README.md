@@ -3,7 +3,9 @@
 ## Created by [Ionut Cora](https://www.ionutcora.com/) | Front-End Web Developer
 
 I have attached below the most popular web development resources that any web developer uses for website development.
+
 Feel free to use them in your projects and I hope you find them useful.
+
 If you like this repo, make sure to ⭐ it.
 
 ---
